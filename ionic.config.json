@@ -1,0 +1,7 @@
+{
+  "name": "conexionBaseDatos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
